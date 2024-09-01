@@ -1,0 +1,25 @@
+body {
+    background-color: #EAEAEA; /* Light gray background */
+  }
+  
+  header {
+    background-color: #00A9FF; /* Deep blue header */
+    color: white;
+  }
+  
+  .a {
+    background-color: white !important;
+    border-radius: 10pt;  /* Blue links */
+  }
+  
+  .button {
+    background-color: #FF8C00; /* Orange buttons */
+    color: white;
+  }
+  
+  .color1 {
+    background-color: #7C93C3 !important; /* Lighter blue hover state */
+  }
+  .b{
+    padding: 12pt;
+  }
